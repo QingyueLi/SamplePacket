@@ -1,0 +1,11 @@
+Package: SamplePacket
+Type: Package
+Title: Qingyue's sample packet
+Version: 0.1.0
+Author: Qingyue Li
+Maintainer: Qingyue Li <liqingyue040116@icloud.com>
+Description: This package is Qingyue's sample packet
+License: GPL-2
+imports: 
+Encoding: UTF-8
+LazyData: true
